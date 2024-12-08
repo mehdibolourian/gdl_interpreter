@@ -20,3 +20,9 @@ This code implements the CS 842 project titled "Implementing an Interpreter for 
 ## How to use
 
 You need to simply run the Jupyter Notebook ``main.ipynb`` which includes both individual test cases for the interpreter (in ``interpreter.py``) and an integration test with the GDL model generator (in ``classifier.py``).
+
+## References
+
+GDL is a language proposed in the following paper:
+
+M. Jeon, J. Park, and H. Oh, “PL4XGL: A programming language approach to explainable graph learning,” Proc. ACM Program. Lang., vol. 8, no. PLDI, Jun. 2024.
