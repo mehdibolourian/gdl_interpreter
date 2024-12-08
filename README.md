@@ -4,7 +4,7 @@ This code implements the CS 842 project titled "Implementing an Interpreter for 
 
 ## Requirement
 
-* python >= 3.8.8
+* python >= 3.6
 
 ## Required Packages
 * re
