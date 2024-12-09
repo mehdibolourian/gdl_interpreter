@@ -19,7 +19,7 @@ This code implements the CS 842 project titled "Implementing an Interpreter for 
 
 ## How to use
 
-You need to simply run the Jupyter Notebook ``main.ipynb`` which includes both individual test cases for the interpreter (in ``interpreter.py``) and an integration test with the GDL model generator (in ``classifier.py``).
+You need to run Jupyter Notebook ``main.ipynb`` which includes individual test cases for the interpreter (in ``interpreter.py``) and an integration test with the GDL model generator (in ``classifier.py``).
 
 ## Demo
 
