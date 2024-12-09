@@ -21,6 +21,11 @@ This code implements the CS 842 project titled "Implementing an Interpreter for 
 
 You need to simply run the Jupyter Notebook ``main.ipynb`` which includes both individual test cases for the interpreter (in ``interpreter.py``) and an integration test with the GDL model generator (in ``classifier.py``).
 
+## Demo
+
+It is possible top access the demo video from within the University of Waterloo from the link below:
+https://uofwaterloo-my.sharepoint.com/:v:/g/personal/mbolouri_uwaterloo_ca/EUhoRHG0Xx9AuVi9IPhI7O4BWi_reQBnnobXJUfmzMWT1w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dVUo84
+
 ## References
 
 GDL is a language proposed in the following paper:
